@@ -1,5 +1,12 @@
-Copyright (c) 2019 Jörg Bergmann
+License
+-------
 
-You may freely use the material in this repository under a Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
+Copyright (c) 2019 [Jörg Bergmann](http://www.energing.de)
 
-Thank you to Prof. Dr. Elisabeth Heinemann for supporting the project.
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a>
+
+ou may freely use the material in this repository under a
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons
+Attribution-NonCommercial 4.0 International License</a> (CC BY-NC 4.0).
+
+Thank you to [Prof. Dr. Elisabeth Heinemann](http://www.frau-professor.de) for reviewing and supporting the project.
